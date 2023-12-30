@@ -1,0 +1,29 @@
+{
+  "name": "election",
+  "version": "1.0.0",
+  "description": "Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappuniversity/election.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dappuniversity/election/issues"
+  },
+  "homepage": "https://github.com/dappuniversity/election#readme"
+}
