@@ -2,6 +2,9 @@
 
 Follow the steps below to download, install, and run this project.
 
+## Demo
+### [Link to the Video Demo](https://github.com/amoghmahesh14/E-Voting-System-using-Blockchain/blob/main/EVotingFinal.mp4)
+
 ## Dependencies
 - NPM: https://nodejs.org
 - Truffle: https://github.com/trufflesuite/truffle
