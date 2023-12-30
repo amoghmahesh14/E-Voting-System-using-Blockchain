@@ -3,7 +3,7 @@
 Follow the steps below to download, install, and run this project.
 
 ## Demo
-### [Link to the Video Demo](https://github.com/amoghmahesh14/E-Voting-System-using-Blockchain/blob/main/EVotingFinal.mp4)
+### [Link to the Video Demo](https://drive.google.com/file/d/18w5Ra3OL_k5fINXPxJ2M5MPHGAe9EGzQ/view?usp=drive_link)
 
 ## Dependencies
 - NPM: https://nodejs.org
